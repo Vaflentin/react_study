@@ -1,0 +1,29 @@
+
+.navBar {
+    grid-area: n;
+    background-color: #3b51b4;
+    border-radius: 5px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    height: 110px;
+ 
+}
+
+
+ .navBarItem a{
+    color: white;
+}
+.navBarItem div a.active{
+    color: gold;
+}
+
+
+
+/* .navBar div a.active{
+    color: gold;
+    font-size: 200px;
+}
+ */
+
